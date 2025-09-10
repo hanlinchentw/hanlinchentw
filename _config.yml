@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "air" # Currently available options are "default", "air"
-title: "Blog"
+title: "Home"
 title_separator: "-"
 name: &name "Leo"
 description: &description "Leo's portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,9 +25,9 @@ repository: "hanlinchentw/hanlinchentw.github.io"
 author:
   # Biographic information
   avatar: "selfie.png"
-  name: "Born to experience"
+  name: "Leo Chen"
   pronouns: # example: "she/her"
-  bio: "Product-focused software engineer with 4 years of experience building large-scale systems, cloud-integrated platforms, and automation frameworks. Currently pursuing an M.S. in Mobile and IoT Engineering at Carnegie Mellon University."
+  bio: "Software engineer with 4 years' experience in large-scale systems and automation. Pursuing M.S. in Mobile and IoT Engineering at CMU."
   location: "Pittsburgh"
   employer: "Carnegie Mellon University"
   uri: # URL
