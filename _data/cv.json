@@ -1,152 +1,193 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Han-Lin (Leo) Chen",
+    "email": "leoc3@andrew.cmu.edu",
+    "phone": "(412) 608-7362",
+    "website": "https://hanlinchentw.github.io/hanlinchentw/",
+    "summary": "Product-focused software engineer with 4 years of experience building large-scale systems, cloud-integrated platforms, and automation frameworks. Currently pursuing an M.S. in Mobile and IoT Engineering at Carnegie Mellon University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": ""
+      "region": "PA"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "han-lin-chen",
+        "url": "https://www.linkedin.com/in/han-lin-chen/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hanlinchentw",
+        "url": "https://www.github.com/hanlinchentw"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Synology Inc.",
+      "position": "Software Engineer",
+      "startDate": "2024-01",
+      "endDate": "2025-08",
+      "summary": "Engineered mobile solutions for BeeStation, including BeeFiles, BeePhotos, and BeeCam, extending private cloud ecosystem.",
+      "location": "New Taipei, Taiwan"
+    },
+    {
+      "company": "Delivery Hero SE (foodpanda)",
+      "position": "Software Engineer",
+      "startDate": "2023-06",
+      "endDate": "2023-12",
+      "summary": "Developed and maintained Orders and Developer Experience modules, optimizing usability and developer productivity.",
+      "location": "Remote, Berlin"
+    },
+    {
+      "company": "CoolBitX Ltd",
+      "position": "Software Engineer",
+      "startDate": "2021-11",
+      "endDate": "2023-04",
+      "summary": "Built and optimized core features of a Bluetooth cold crypto wallet mobile app via TypeScript and ReactNative.",
+      "location": "Taipei, Taiwan"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Carnegie Mellon University",
+      "area": "Mobile and IoT Engineering",
+      "studyType": "M.S.",
+      "startDate": "2025-08",
+      "endDate": "2026-12",
+      "gpa": "",
+      "location": "Pittsburgh, PA"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "National Taiwan University",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2019-09",
+      "endDate": "2021-10",
+      "gpa": "",
+      "location": "Taipei, Taiwan"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "National Central University",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "gpa": "",
+      "location": "Taoyuan, Taiwan"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "C/C++",
+        "Swift",
+        "Objective-C",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Java"
+      ]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "keywords": [
+        "React",
+        "React Native",
+        "Redux",
+        "Next.js",
+        "Node.js",
+        "Django",
+        "SwiftUI",
+        "Jest",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Firebase",
+        "GitHub Actions",
+        "GitLab CI",
+        "fastlane"
+      ]
+    },
+    {
+      "name": "Systems",
+      "keywords": [
+        "Unix/Linux",
+        "Kernel Development",
+        "x86 Assembly",
+        "QEMU",
+        "GNU toolchains",
+        "Arduino",
+        "Raspberry Pi",
+        "FreeRTOS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Full stack Development"
+    },
+    {
+      "name": "Open-source Contribution"
+    },
+    {
+      "name": "IoT and Mobile Development"
+    },
+    {
+      "name": "Cloud Computing"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Bringing Container/Presentational to React Native",
+      "publisher": "Substack",
+      "releaseDate": "2025-09-10",
+      "website": "https://leochentw.substack.com/p/bringing-containerpresentational",
+      "summary": "A detailed discussion on implementing the container/presentational pattern in React Native to improve code organization and readability."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
+  "references": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "AweOS Microkernel",
+      "category": "Projects",
+      "date": "2025-07",
+      "url": "https://github.com/hanlinchentw/AweOS",
+      "description": "Built a microkernel in C and Assembly with interrupt handling, memory management, and process scheduling."
+    },
+    {
+      "name": "Mocky Mobile Test Framework",
+      "category": "Projects",
+      "date": "2025-06",
+      "url": "https://github.com/hanlinchentw/Mocky",
+      "description": "Designed a mobile test framework to intercept and override network responses in UI tests."
+    },
+    {
+      "name": "Picker App",
+      "category": "Projects",
+      "date": "2022-12",
+      "url": "https://github.com/hanlinchentw/Pickers",
+      "description": "Created a SwiftUI app helping users discover restaurants via map-based search and randomized recommendations."
     }
   ]
 }

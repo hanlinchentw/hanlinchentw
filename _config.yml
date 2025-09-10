@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "air" # Currently available options are "default", "air"
-title: "Leo"
+title: "Blog"
 title_separator: "-"
 name: &name "Leo"
 description: &description "Leo's portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
@@ -64,7 +64,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "han-lin-chen"
   mastodon: # URL
   medium: # URL
   pinterest: # Username

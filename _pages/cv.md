@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Download CV
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[Download PDF](/files/LeoChenResume.pdf)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- M.S. in Mobile and IoT Engineering, Carnegie Mellon University, 2025 - 2026 (expected)
+- M.S. in Mechanical Engineering, National Taiwan University, 2019 - 2021
+- B.S. in Mechanical Engineering, National Central University, 2015 - 2019
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Work experience
+
+- **Software Engineer, Synology Inc.**, New Taipei, Taiwan, Jan 2024 – Aug 2025:
+
+  - Engineered mobile solutions for BeeStation apps, expanding private cloud ecosystem
+  - Implemented end-to-end test automation, reducing manual QA by 60%
+  - Integrated LLMs into CI/CD pipelines to auto-generate test code, improving coverage to 20%
+  - Led workshops standardizing automation best practices across teams
+  - Migrated 20,000+ lines of Objective-C to Swift, modernizing architecture
+
+- **Software Engineer, Delivery Hero SE (foodpanda)**, Remote (Berlin), Jun 2023 – Dec 2023:
+
+  - Developed and maintained order and developer experience modules
+  - Designed modular test automation framework with 100% coverage on core modules
+  - Led navigation overhaul aligning 5 cross-functional teams
+  - Delivered real-time mobile order-tracking widget; won 1st place in hackathon
+
+- **Software Engineer, CoolBitX Ltd.**, Taipei, Taiwan, Nov 2021 – Apr 2023
+  - Built and optimized Bluetooth cold crypto wallet via TypeScript and React Native
+  - Redesigned staking architecture supporting 13 cryptocurrencies
+  - Reduced crash rate from 10% to 0.3% by rebuilding iOS database access
+  - Led crypto launchpad project with Next.js for token launches
+  - Mentored summer intern on project onboarding and professional growth
+
+# Skills
+
+- Languages:
+  - C/C++, Swift, Objective-C, Python, JavaScript, TypeScript, SQL, HTML, CSS, Java
+- Frameworks/Tools:
+  - React, React Native, Redux, Next.js, Node.js, Django, SwiftUI, Jest, GraphQL, Docker, Kubernetes, AWS, Firebase, GitHub Actions, GitLab CI, fastlane
+- Systems:
+  - Unix/Linux, Kernel Development, x86 Assembly, QEMU, GNU toolchains, Arduino, Raspberry Pi, FreeRTOS
