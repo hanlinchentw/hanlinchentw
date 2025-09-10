@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default" # Currently available options are "default", "air"
-title: "Leo / ID"
+site_theme: "air" # Currently available options are "default", "air"
+title: "Leo"
 title_separator: "-"
 name: &name "Leo"
 description: &description "Leo's portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository: "hanlinchentw/hanlinchentw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "selfie.jpg"
+  avatar: "selfie.png"
   name: "Born to experience"
   pronouns: # example: "she/her"
   bio: "Product-focused software engineer with 4 years of experience building large-scale systems, cloud-integrated platforms, and automation frameworks. Currently pursuing an M.S. in Mobile and IoT Engineering at Carnegie Mellon University."
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation: # Username
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: # "bsky.app" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
